@@ -1,0 +1,6 @@
+git config --global push.default simple
+git config --global user.name ""  
+git config --global user.email ""
+
+git clone https://github.com/asdflab/test.git test.git
+

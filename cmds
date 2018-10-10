@@ -10,6 +10,7 @@ git commit
 
 git push
 
+git push --set-upstream origin test1
 
 
 
